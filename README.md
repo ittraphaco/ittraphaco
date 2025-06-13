@@ -1,10 +1,12 @@
 # 💻 IT Department – Traphaco JSC
 
-Welcome to the official GitHub profile of the **Information Technology Department** of **Traphaco JSC**, one of Vietnam’s leading pharmaceutical companies.
+Welcome to the official GitHub profile of the **Information Technology Department** of **Traphaco JSC**, a pioneering Vietnamese pharmaceutical company known for its commitment to natural healthcare products and sustainable development.
 
 ---
 
 ## 🏢 About Us
+
+![Traphaco IT Logo](./resource/CONG-TY-CO-PHAN-TRAPHACO-01.png)
 
 The IT Department at Traphaco is dedicated to building and maintaining innovative digital infrastructure and solutions that empower our employees, optimize operations, and support the company’s mission of bringing high-quality pharmaceutical products to the people of Vietnam and beyond.
 
@@ -49,8 +51,8 @@ We are working on internal tools and contributions to automation and process imp
 
 ## 📫 Contact Us
 
-> **Email**: it@traphaco.com.vn  
-> **Phone**: (+84) 24 3753 3555  
+> **Email**: it@traphaco.com.vn  
+> **Phone**: (+84) 24 3753 3555  
 > **Website**: [www.traphaco.com.vn](https://traphaco.com.vn/)
 
 ---
