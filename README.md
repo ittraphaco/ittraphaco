@@ -5,8 +5,9 @@ Welcome to the official GitHub profile of the **Information Technology Departmen
 ---
 
 ## 🏢 About Us
-
-<img src="./resource/CONG-TY-CO-PHAN-TRAPHACO-01.png" alt="Traphaco IT Logo" width="500" height="500"/>
+<div align="center">
+  <img src="./resource/CONG-TY-CO-PHAN-TRAPHACO-01.png" alt="Traphaco IT Logo" width="250" height="250"/>
+</div>
 
 The IT Department at Traphaco is dedicated to building and maintaining innovative digital infrastructure and solutions that empower our employees, optimize operations, and support the company’s mission of bringing high-quality pharmaceutical products to the people of Vietnam and beyond.
 
